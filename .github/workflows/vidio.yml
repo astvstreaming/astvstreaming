@@ -1,0 +1,32 @@
+name: Update Vidio streams
+on:
+  schedule:
+    - cron: '00 00/2 * * *'
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v2
+      - name: config
+        run: |
+          git pull
+          git config --global user.email "astvstreaming39@gmail.com"
+          git config --global user.name "ASTV Streaming"
+      - name: update streams
+        run: |
+          pwd
+          mkdir tmp
+          wget -U 'okhttp/1.2' -qP tmp http://103.152.118.53:80/api/pidio/index.py
+          python3 tmp/index.py --channel-code 205 --channel-name "indogsiar" indogsiar.m3u8
+          rm -rf tmp
+      - name: commit
+        run: |
+          git add -A
+          git commit -m "Update streams"
+          git push
