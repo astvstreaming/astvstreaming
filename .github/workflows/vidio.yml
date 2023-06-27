@@ -33,6 +33,9 @@ jobs:
           python3 tmp/index.py --channel-code 7464 --channel-name "ajwa-tv" ajewativi.m3u8
           python3 tmp/index.py --channel-code 734 --channel-name "trans-7" terans7.m3u8
           python3 tmp/index.py --channel-code 9714 --channel-name "jpm-tv" jepeemtivi.m3u8
+          python3 tmp/index.py --channel-code 10975 --channel-name "elshinta-tv" elsehintativi.m3u8
+          python3 tmp/index.py --channel-code 8241 --channel-name "rans-channel" ranschanneel.m3u8
+          python3 tmp/index.py --channel-code 6362 --channel-name "tvn" tivien.m3u8
           rm -rf tmp
       - name: commit
         run: |
