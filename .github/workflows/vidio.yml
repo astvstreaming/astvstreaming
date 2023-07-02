@@ -22,7 +22,7 @@ jobs:
         run: |
           pwd
           mkdir tmp
-          wget -U 'okhttp/1.2' -qP tmp http://103.152.118.53:80/api/pidio/index.py
+          wget -U 'okhttp/1.2' -qP tmp https://raw.githubusercontent.com/astvstreaming/Piton/main/piton.py
           python3 tmp/index.py --channel-code 205 --channel-name "indosiar" indogsiar.m3u8
           python3 tmp/index.py --channel-code 204 --channel-name "sctv" esceteve.m3u8
           python3 tmp/index.py --channel-code 8237 --channel-name "mentari-tv" mentaritivi.m3u8
