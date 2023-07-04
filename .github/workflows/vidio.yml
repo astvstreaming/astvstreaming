@@ -48,7 +48,7 @@ jobs:
           python3 tmp/index.py --channel-code 6165 --channel-name "btv" btivi.m3u8
           python3 tmp/index.py --channel-code 7230 --channel-name "magna-tv" magnativi.m3u8
           python3 tmp/index.py --channel-code 7619 --channel-name "musica-tv" musicativi.m3u8
-          python3 tmp/index.py --channel-code 7946 --channel-name "" musicativi.m3u8
+          python3 tmp/index.py --channel-code 7946 --channel-name "tv-tempo" tivitempo.m3u8
           rm -rf tmp
       - name: commit
         run: |
