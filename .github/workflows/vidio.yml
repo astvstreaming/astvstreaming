@@ -36,12 +36,19 @@ jobs:
           python3 tmp/index.py --channel-code 10975 --channel-name "elshinta-tv" elsehintativi.m3u8
           python3 tmp/index.py --channel-code 8241 --channel-name "rans-channel" ranschanneel.m3u8
           python3 tmp/index.py --channel-code 6362 --channel-name "tvn" tivien.m3u8
-          python3 tmp/index.py --channel-code 205 --channel-name "PERSIK-Kediri-vs-Borneo-FC" live1.m3u8
-          python3 tmp/index.py --channel-code 13610 --channel-name "RANS-Nusantara-vs-PERSIKABO-1973" live2.m3u8
-          python3 tmp/index.py --channel-code 13561 --channel-name "PSIS-Semarang-vs-Bhayangkara-Presisi" live3.m3u8
-          python3 tmp/index.py --channel-code 11683 --channel-name "Basket" live4.m3u8
-          python3 tmp/index.py --channel-code 206 --channel-name "vnl" live5.m3u8
-          python3 tmp/index.py --channel-code 206 --channel-name "vnl" live6.m3u8
+          python3 tmp/index.py --channel-code 12607 --channel-name "Tawaf-TV" TawafTivi.m3u8
+          python3 tmp/index.py --channel-code 777 --channel-name "metro-tv" MetroTivi.m3u8
+          python3 tmp/index.py --channel-code 874 --channel-name "kompas-tv" KompasTivi.m3u8
+          python3 tmp/index.py --channel-code 875 --channel-name "NET." Netivi.m3u8
+          python3 tmp/index.py --channel-code 5415 --channel-name "JAK-TV" Jaktivi.m3u8
+          python3 tmp/index.py --channel-code 9713 --channel-name "J-TV" Jtivi.m3u8
+          python3 tmp/index.py --channel-code 6482 --channel-name "daai-tv" Daaitivi.m3u8
+          python3 tmp/index.py --channel-code 7432 --channel-name "nusantara-tv" nusantarativi.m3u8
+          python3 tmp/index.py --channel-code 8815 --channel-name "metro-globe-tv" metroglobe.m3u8
+          python3 tmp/index.py --channel-code 6165 --channel-name "btv" btivi.m3u8
+          python3 tmp/index.py --channel-code 7230 --channel-name "magna-tv" magnativi.m3u8
+          python3 tmp/index.py --channel-code 7619 --channel-name "musica-tv" musicativi.m3u8
+          python3 tmp/index.py --channel-code 7946 --channel-name "" musicativi.m3u8
           rm -rf tmp
       - name: commit
         run: |
