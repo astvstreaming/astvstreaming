@@ -51,6 +51,7 @@ jobs:
           python3 tmp/index.py --channel-code 7946 --channel-name "tv-tempo" tivitempo.m3u8
           python3 tmp/index.py --channel-code 8638 --channel-name "Nagaswara" nagaswaradio.m3u8
           python3 tmp/index.py --channel-code 7004 --channel-name "Prambors" Pramborstivi.m3u8
+          python3 tmp/index.py --channel-code 13527 --channel-name "Dota" live1.m3u8
           rm -rf tmp
       - name: commit
         run: |
