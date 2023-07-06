@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.akamaized.net/exp=1688665311~acl=/hls-p/ingest_7619_*/*~hmac=d8fe2c8d3335c1208065b8cd56a18860344392d893a8eebf8d46290bab358c65/hls-p/ingest_7619_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1688668368~acl=/hls-p/ingest_7619_*/*~hmac=1206a0cb393b66ec59837dd0e0401da31171aff74d281b40eb78ded8ede3b785/hls-p/ingest_7619_360p/index.m3u8
