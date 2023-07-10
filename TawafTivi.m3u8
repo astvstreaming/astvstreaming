@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://etslive-2-vidio-com.akamaized.net/exp=1688999783~acl=/hls-p/ingest_12607_*/*~hmac=640ae8e95c93f6f42b33e32d0cc2a32a182c90952ca1e7d88b48b7b8be0b012f/hls-p/ingest_12607_1080p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1689008722~acl=/hls-p/ingest_12607_*/*~hmac=97f968e683929013ed8bf3f6b24b6b6f2cfa47f838ed16e3f991763f66730900/hls-p/ingest_12607_1080p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1688999783~acl=/hls-p/ingest_12607_*/*~hmac=640ae8e95c93f6f42b33e32d0cc2a32a182c90952ca1e7d88b48b7b8be0b012f/hls-p/ingest_12607_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1689008722~acl=/hls-p/ingest_12607_*/*~hmac=97f968e683929013ed8bf3f6b24b6b6f2cfa47f838ed16e3f991763f66730900/hls-p/ingest_12607_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1688999783~acl=/hls-p/ingest_12607_*/*~hmac=640ae8e95c93f6f42b33e32d0cc2a32a182c90952ca1e7d88b48b7b8be0b012f/hls-p/ingest_12607_480p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1689008722~acl=/hls-p/ingest_12607_*/*~hmac=97f968e683929013ed8bf3f6b24b6b6f2cfa47f838ed16e3f991763f66730900/hls-p/ingest_12607_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.akamaized.net/exp=1688999783~acl=/hls-p/ingest_12607_*/*~hmac=640ae8e95c93f6f42b33e32d0cc2a32a182c90952ca1e7d88b48b7b8be0b012f/hls-p/ingest_12607_360p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1689008722~acl=/hls-p/ingest_12607_*/*~hmac=97f968e683929013ed8bf3f6b24b6b6f2cfa47f838ed16e3f991763f66730900/hls-p/ingest_12607_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.akamaized.net/exp=1688999783~acl=/hls-p/ingest_12607_*/*~hmac=640ae8e95c93f6f42b33e32d0cc2a32a182c90952ca1e7d88b48b7b8be0b012f/hls-p/ingest_12607_240p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1689008722~acl=/hls-p/ingest_12607_*/*~hmac=97f968e683929013ed8bf3f6b24b6b6f2cfa47f838ed16e3f991763f66730900/hls-p/ingest_12607_240p/index.m3u8
