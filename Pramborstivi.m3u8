@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://live-production.secureswiftcontent.com/exp=1689379859~acl=/hls-p/ingest_7004_*/*~hmac=f21dea52bdd4c52a69c02d375da6ac9989c6ee7ac99dc54f330da42be86902b3/hls-p/ingest_7004_360p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1689383625~acl=/hls-p/ingest_7004_*/*~hmac=0b2c9b8f679238d74c19bbaa30b741185cd822e89b926619e4e6cbceada3b5bf/hls-p/ingest_7004_360p/index.m3u8
