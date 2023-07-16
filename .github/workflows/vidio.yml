@@ -51,11 +51,10 @@ jobs:
           python3 tmp/index.py --channel-code 7946 --channel-name "tv-tempo" tivitempo.m3u8
           python3 tmp/index.py --channel-code 8638 --channel-name "Nagaswara" nagaswaradio.m3u8
           python3 tmp/index.py --channel-code 7004 --channel-name "Prambors" Pramborstivi.m3u8
-          python3 tmp/index.py --channel-code 13610 --channel-name "BRI" RansvsPersita.m3u8
-          python3 tmp/index.py --channel-code 13797 --channel-name "BRI" PersisvsBorneo.m3u8
-          python3 tmp/index.py --channel-code 11683 --channel-name "IBL" PrawiravsDewa.m3u8
-          python3 tmp/index.py --channel-code 11683 --channel-name "IBL" SatriavsPelita.m3u8
-          python3 tmp/index.py --channel-code 206 --channel-name "Voli" avc.m3u8
+          python3 tmp/index.py --channel-code 12582 --channel-name "BRI" Balap-1.m3u8
+          python3 tmp/index.py --channel-code 12613 --channel-name "BRI" Balap-2.m3u8
+          python3 tmp/index.py --channel-code 206 --channel-name "BRI" Balap-3.m3u8
+          python3 tmp/index.py --channel-code 13819 --channel-name "Press" Conference.m3u8
           rm -rf tmp
       - name: commit
         run: |
