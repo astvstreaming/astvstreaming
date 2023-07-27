@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://live-production.secureswiftcontent.com/exp=1690452725~acl=/hls-p/ingest_12607_*/*~hmac=ec0a24eec8787704bab62eae3de9aa8170b41d9cb624b30c83f13f4de27a645c/hls-p/ingest_12607_1080p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1690459907~acl=/hls-p/ingest_12607_*/*~hmac=91dfdc539f596fab252ad2e12ff706db4a8010f55b5b89edaf55f9b7e2fbb980/hls-p/ingest_12607_1080p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://live-production.secureswiftcontent.com/exp=1690452725~acl=/hls-p/ingest_12607_*/*~hmac=ec0a24eec8787704bab62eae3de9aa8170b41d9cb624b30c83f13f4de27a645c/hls-p/ingest_12607_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1690459907~acl=/hls-p/ingest_12607_*/*~hmac=91dfdc539f596fab252ad2e12ff706db4a8010f55b5b89edaf55f9b7e2fbb980/hls-p/ingest_12607_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://live-production.secureswiftcontent.com/exp=1690452725~acl=/hls-p/ingest_12607_*/*~hmac=ec0a24eec8787704bab62eae3de9aa8170b41d9cb624b30c83f13f4de27a645c/hls-p/ingest_12607_480p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1690459907~acl=/hls-p/ingest_12607_*/*~hmac=91dfdc539f596fab252ad2e12ff706db4a8010f55b5b89edaf55f9b7e2fbb980/hls-p/ingest_12607_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://live-production.secureswiftcontent.com/exp=1690452725~acl=/hls-p/ingest_12607_*/*~hmac=ec0a24eec8787704bab62eae3de9aa8170b41d9cb624b30c83f13f4de27a645c/hls-p/ingest_12607_360p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1690459907~acl=/hls-p/ingest_12607_*/*~hmac=91dfdc539f596fab252ad2e12ff706db4a8010f55b5b89edaf55f9b7e2fbb980/hls-p/ingest_12607_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://live-production.secureswiftcontent.com/exp=1690452725~acl=/hls-p/ingest_12607_*/*~hmac=ec0a24eec8787704bab62eae3de9aa8170b41d9cb624b30c83f13f4de27a645c/hls-p/ingest_12607_240p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1690459907~acl=/hls-p/ingest_12607_*/*~hmac=91dfdc539f596fab252ad2e12ff706db4a8010f55b5b89edaf55f9b7e2fbb980/hls-p/ingest_12607_240p/index.m3u8
